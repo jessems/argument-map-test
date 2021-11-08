@@ -2,7 +2,9 @@
 
 <details>
   <summary>`+Test`</summary>
-  `-Hidden`
+  ```
+  -Hidden
+  ```
 </details>
 
 `test`
