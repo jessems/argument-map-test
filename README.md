@@ -2,13 +2,10 @@
 
 <details>
   <summary>
-    
-    ```diff
     + Test
-    ````
   </summary>
   
-  ```
+  ```diff
   - Hidden
   ```
 </details>
