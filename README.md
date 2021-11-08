@@ -1,6 +1,6 @@
 # argument-map-test
 
 <details>
-  <summary>```+Test```</summary>
-  ```-Hidden```
+  <summary>`+Test`</summary>
+  `-Hidden`
 </details>
