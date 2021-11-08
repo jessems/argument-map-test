@@ -1,7 +1,12 @@
 # argument-map-test
 
 <details>
-  <summary>`+ Test`</summary>
+  <summary>
+    
+    ```diff
+    + Test
+    ````
+  </summary>
   
   ```
   - Hidden
